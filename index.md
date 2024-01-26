@@ -9,6 +9,4 @@
 That is "The Curse of Learning", a principle dual to "The Curse of Dimensionality".
 ## Index
 
-[Page 1](./pages/page_1)
-
-[Page 2](./pages/page_2)
+[Introduction](./pages/introduction)
