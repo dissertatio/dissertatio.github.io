@@ -1,4 +1,4 @@
-# Dissertatio. Index
+# Dissertatio
 <pre>
   "...it is possible to interpret the information carried by a message as essentially 
   the negative of its entropy, and the negative logarithm of its probability. That is, 
@@ -7,6 +7,7 @@
   Norbert Wiener, "The Human use of Human Beings", p.21
 </pre>
 That is "The Curse of Learning", a principle dual to "The Curse of Dimensionality".
+## Index
 
 [Page 1](./pages/page_1)
 

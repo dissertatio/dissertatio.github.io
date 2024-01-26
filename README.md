@@ -7,3 +7,6 @@
   Norbert Wiener, "The Human use of Human Beings", p.21
 </pre>
 That is "The Curse of Learning", a principle dual to "The Curse of Dimensionality".
+
+
+[Dissertatio](https://dissertatio.github.io)
