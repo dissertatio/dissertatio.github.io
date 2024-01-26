@@ -9,4 +9,4 @@
 That is "The Curse of Learning", a principle dual to "The Curse of Dimensionality".
 ## Index
 
-[Introduction](./pages/introduction)
+[Introduction](./pages/introduction) <details><summary>Multilogue - a multithreaded mode of thought...</summary>...can be revived and expanded with the help of Abstract Intelligence (AI).</details>
