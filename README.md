@@ -1,2 +1,2 @@
-# New modes of thought
+# Dissertation
 Dissertation.
