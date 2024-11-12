@@ -1,2 +1,2 @@
-# githubio-template
-Template for github.io pages
+# New modes of thought
+Dissertation.
