@@ -1,10 +1,16 @@
 ---
 layout: home
-title: Site Name
+title: Dissertatio
 ---
-# Github.io template. Index
+# Dissertatio
 <pre>
-  'Machina Ratiocinatrix' is a term used by Norbert Wiener in the introduction to his book 
-  "Cybernetics, or Control and Communication in the Animal and the Machine".
+  "...it is possible to interpret the information carried by a message as essentially 
+  the negative of its entropy, and the negative logarithm of its probability. That is, 
+  the more probable the message, the less information it gives."
+  
+  Norbert Wiener, "The Human use of Human Beings", p.21
 </pre>
-[Page 1](./pages/page_1)
+That is "The Curse of Learning", a principle dual to "The Curse of Dimensionality".
+## Index
+
+[Introduction](./pages/introduction) <details><summary>Multilogue - a multithreaded mode of thought...</summary>...can be revived and expanded with the help of Abstract Intelligence (AI).</details>
